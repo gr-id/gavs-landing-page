@@ -1,0 +1,242 @@
+[
+    {
+        "code": "AR",
+        "name": "Argentina",
+        "banks": 63
+    },
+    {
+        "code": "AU",
+        "name": "Australia",
+        "banks": 55
+    },
+    {
+        "code": "AT",
+        "name": "Austria",
+        "banks": 389
+    },
+    {
+        "code": "BD",
+        "name": "Bangladesh",
+        "banks": 3
+    },
+    {
+        "code": "BE",
+        "name": "Belgium",
+        "banks": 59
+    },
+    {
+        "code": "BR",
+        "name": "Brazil",
+        "banks": 148
+    },
+    {
+        "code": "CL",
+        "name": "Chile",
+        "banks": 20
+    },
+    {
+        "code": "CN",
+        "name": "China",
+        "banks": 162
+    },
+    {
+        "code": "CO",
+        "name": "Colombia",
+        "banks": 25
+    },
+    {
+        "code": "HR",
+        "name": "Croatia",
+        "banks": 21
+    },
+    {
+        "code": "CY",
+        "name": "Cyprus",
+        "banks": 23
+    },
+    {
+        "code": "EC",
+        "name": "Ecuador",
+        "banks": 13
+    },
+    {
+        "code": "EE",
+        "name": "Estonia",
+        "banks": 10
+    },
+    {
+        "code": "FI",
+        "name": "Finland",
+        "banks": 18
+    },
+    {
+        "code": "FR",
+        "name": "France",
+        "banks": 239
+    },
+    {
+        "code": "DE",
+        "name": "Germany",
+        "banks": 1157
+    },
+    {
+        "code": "GR",
+        "name": "Greece",
+        "banks": 24
+    },
+    {
+        "code": "IN",
+        "name": "India",
+        "banks": 855
+    },
+    {
+        "code": "ID",
+        "name": "Indonesia",
+        "banks": 142
+    },
+    {
+        "code": "IE",
+        "name": "Ireland",
+        "banks": 389
+    },
+    {
+        "code": "IT",
+        "name": "Italy",
+        "banks": 398
+    },
+    {
+        "code": "LV",
+        "name": "Latvia",
+        "banks": 20
+    },
+    {
+        "code": "LT",
+        "name": "Lithuania",
+        "banks": 75
+    },
+    {
+        "code": "LU",
+        "name": "Luxembourg",
+        "banks": 76
+    },
+    {
+        "code": "MY",
+        "name": "Malaysia",
+        "banks": 37
+    },
+    {
+        "code": "MT",
+        "name": "Malta",
+        "banks": 29
+    },
+    {
+        "code": "MX",
+        "name": "Mexico",
+        "banks": 129
+    },
+    {
+        "code": "NP",
+        "name": "Nepal",
+        "banks": 23
+    },
+    {
+        "code": "NL",
+        "name": "Netherlands",
+        "banks": 78
+    },
+    {
+        "code": "NG",
+        "name": "Nigeria",
+        "banks": 40
+    },
+    {
+        "code": "PK",
+        "name": "Pakistan",
+        "banks": 32
+    },
+    {
+        "code": "PE",
+        "name": "Peru",
+        "banks": 31
+    },
+    {
+        "code": "PL",
+        "name": "Poland",
+        "banks": 40
+    },
+    {
+        "code": "PT",
+        "name": "Portugal",
+        "banks": 47
+    },
+    {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "banks": 14
+    },
+    {
+        "code": "SK",
+        "name": "Slovakia",
+        "banks": 23
+    },
+    {
+        "code": "SI",
+        "name": "Slovenia",
+        "banks": 14
+    },
+    {
+        "code": "ZA",
+        "name": "South Africa",
+        "banks": 11
+    },
+    {
+        "code": "KR",
+        "name": "South Korea",
+        "banks": 48
+    },
+    {
+        "code": "ES",
+        "name": "Spain",
+        "banks": 143
+    },
+    {
+        "code": "TH",
+        "name": "Thailand",
+        "banks": 50
+    },
+    {
+        "code": "TR",
+        "name": "Turkey",
+        "banks": 51
+    },
+    {
+        "code": "UG",
+        "name": "Uganda",
+        "banks": 21
+    },
+    {
+        "code": "GB",
+        "name": "UK",
+        "banks": 242
+    },
+    {
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "banks": 22
+    },
+    {
+        "code": "UY",
+        "name": "Uruguay",
+        "banks": 17
+    },
+    {
+        "code": "US",
+        "name": "USA",
+        "banks": 1089
+    },
+    {
+        "code": "VN",
+        "name": "Vietnam",
+        "banks": 43
+    }
+]
