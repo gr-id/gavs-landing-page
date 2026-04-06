@@ -18,6 +18,18 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.observe(section);
     });
 
+    // Sticky Nav Logic
+    const nav = document.querySelector('nav');
+    if (nav) {
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                nav.classList.add('scrolled');
+            } else {
+                nav.classList.remove('scrolled');
+            }
+        });
+    }
+
     // Add mouse move listener for generic glow effect globally if needed
     document.addEventListener("mousemove", (e) => {
         document.documentElement.style.setProperty('--x', e.clientX + 'px');
